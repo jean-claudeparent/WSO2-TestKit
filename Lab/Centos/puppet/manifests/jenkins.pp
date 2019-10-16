@@ -1,5 +1,5 @@
 
-class j
+class jcp3264jenkins
 {
   
 
@@ -12,4 +12,4 @@ class j
 
 }
 
-include '::j'
+include '::jcp3264jenkins'
